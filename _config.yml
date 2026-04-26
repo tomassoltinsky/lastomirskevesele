@@ -12,38 +12,38 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tomáš Šoltinský"
 description              : &description "personal description"
-url                      : https://tomassoltinsky.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lastomirskevesele.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tomassoltinsky/tomassoltinsky.github.io"
+repository               : "tomassoltinsky/lastomirskevesele.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "park_guell.jpg"
-  name             : "Dr. Tomáš Šoltinský"
+  avatar           : "images/hunka.jpg"
+  name             : "Sponsored by Huňka"
   pronouns         : # example: "she/her"  
-  bio              : "Astrophysicist"
-  location         : "Trieste, Italy"
-  employer         : "INAF-OATs"
+  bio              : #"Astrophysicist"
+  location         : "Lastomír - Šírava"
+  employer         : #"INAF-OATs"
   uri              : # URL
-  email            : "tomas.soltinsky@inaf.it" 
+  email            : #"tomas.soltinsky@inaf.it" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0001-7703-8929"
+  orcid            : #"http://orcid.org/0000-0001-7703-8929"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  ads              : "https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22%C5%A0oltinsk%C3%BD%2C%20Tom%C3%A1%C5%A1%22&sort=date%20desc%2C%20bibcode%20desc"
+  ads              : #"https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22%C5%A0oltinsk%C3%BD%2C%20Tom%C3%A1%C5%A1%22&sort=date%20desc%2C%20bibcode%20desc"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "tomassoltinsky"
+  github           : #"tomassoltinsky"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -230,23 +230,23 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: publications
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _portfolio
   #- scope:
   #    path: ""
@@ -257,13 +257,13 @@ defaults:
   #    share: true
   #    comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 
 # Sass/SCSS
