@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vitajte na stránk ášho vešeľa!"
+title: "Vitajte na stránke nášho vešeľa!"
 author_profile: true
 redirect_from: 
   - /about/
