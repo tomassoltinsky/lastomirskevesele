@@ -1,19 +1,7 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/ 
+  - title: "Časopriestorové koordináty"
+    url: /spacetime/
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Outreach"
-    url: /outreach/    
-
-  - title: "EoR"
-    url: /eor/  
-
-  - title: "CV"
-    url: /cv/
+  - title: "Menu"
+    url: /menu/ 
