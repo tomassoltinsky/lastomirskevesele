@@ -21,7 +21,7 @@ Program na hotely Glamour bude za sprievodu hudobnej skupiny Esprit
 
 Prípitky, jedzeňa a tote veci
 
-* Tance: *
+*Tance:*
 
 Mladomanželský
 
