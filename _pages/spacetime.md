@@ -29,7 +29,7 @@ Otvoriť v Google Maps
 <p>
 Hotel Glamour
 <p>
-Kaluža 744, 072 36 Kaluža
+Kaluža 744
 <p>
 [web](https://hotelglamour.sk/){:target="_blank" rel="noopener"}
 <p>
