@@ -18,9 +18,9 @@ Gratulácie pred kostolom
 ## Recepcia ##
 
 Program na hotely Glamour bude za sprievodu hudobnej skupiny Esprit
-<\p>
+
 Prípitky, jedzeňa a tote veci
-<\p>
+
 Tance:
 
 Mladomanželský
