@@ -21,10 +21,11 @@ repository: "tomassoltinsky/lastomirskevesele"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/hunka.jpg"
+  avatar           : "hunka.jpg"
   name             : "Sponsored by Huňka"
   pronouns         : # example: "she/her"  
   bio              : #"Astrophysicist"
+  date             : "29. August 2026"
   location         : "Lastomír - Šírava"
   employer         : #"INAF-OATs"
   uri              : # URL
